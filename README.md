@@ -51,6 +51,6 @@ The next step is open it in your browser. Just type _localhost:3000_ and have so
 
 
 ### Contact
-- Email: [vhuugoc@gmail.com]
+- Email: (vhuugoc@gmail.com)[vhuugoc@gmail.com]
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/vhugoc/)
 
