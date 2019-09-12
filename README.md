@@ -10,6 +10,7 @@ We have 2 optional methods to make it work
 Just clone this application and run _npm install_ in your chat-example folder with my _package.json_ included.
 
 All right. You are ready to use and improve that chat. To run the server, just run _node server_ in your chat-example folder.
+
 Now click [here](https://github.com/vhugoc/chat-example#ok-now-you-are-running-a-live-chat-example-with-nodejs-and-socketio) for the next step.
 
 
