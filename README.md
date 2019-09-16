@@ -4,7 +4,7 @@ An chat example using SocketIO and NodeJS for sending and receiving messages in 
 
 ## Getting Started
 
-We have 2 optional methods to make it work
+We have 2 optional methods to make it work:
 
 ### 1. Clone this application
 Just clone this application and run _npm install_ in your chat-example folder with my _package.json_ included.
