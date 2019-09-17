@@ -39,7 +39,7 @@ npm --save install express socket.io ejs
 yarn --save add express socket.io ejs
 ```
 
-Good, now we need to clone this project. Just clone it without the _package.json_ and run _node server_ in the project root folder.
+Good, now we need to clone this project. Just clone it without the _package.json_ and run _node server_ in the project root folder
 
 #### Ok, now you are running a live chat example with Node JS and Socket.IO.
 The next step is open it in your browser. Just type _localhost:3000_ and have some fun! You can also open it in an incognito window to start a chat with yourself.
