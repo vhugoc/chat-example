@@ -1,6 +1,6 @@
 # Node JS Public Chat Example
 
-An chat example using SocketIO and NodeJS for sending and receiving messages in real time.
+A chat example using SocketIO and NodeJS for sending and receiving messages in real time.
 
 ## Getting Started
 
